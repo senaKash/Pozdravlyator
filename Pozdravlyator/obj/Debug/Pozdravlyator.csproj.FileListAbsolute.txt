@@ -1,0 +1,10 @@
+C:\Users\Sena\source\repos\Pozdravlyator\Pozdravlyator\bin\Debug\Pozdravlyator.exe.config
+C:\Users\Sena\source\repos\Pozdravlyator\Pozdravlyator\bin\Debug\Pozdravlyator.exe
+C:\Users\Sena\source\repos\Pozdravlyator\Pozdravlyator\bin\Debug\Pozdravlyator.pdb
+C:\Users\Sena\source\repos\Pozdravlyator\Pozdravlyator\bin\Debug\System.Data.SQLite.dll
+C:\Users\Sena\source\repos\Pozdravlyator\Pozdravlyator\bin\Debug\System.Data.SQLite.xml
+C:\Users\Sena\source\repos\Pozdravlyator\Pozdravlyator\obj\Debug\Pozdravlyator.csprojAssemblyReference.cache
+C:\Users\Sena\source\repos\Pozdravlyator\Pozdravlyator\obj\Debug\Pozdravlyator.csproj.CoreCompileInputs.cache
+C:\Users\Sena\source\repos\Pozdravlyator\Pozdravlyator\obj\Debug\Pozdravlyator.csproj.CopyComplete
+C:\Users\Sena\source\repos\Pozdravlyator\Pozdravlyator\obj\Debug\Pozdravlyator.exe
+C:\Users\Sena\source\repos\Pozdravlyator\Pozdravlyator\obj\Debug\Pozdravlyator.pdb
